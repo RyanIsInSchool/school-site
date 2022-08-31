@@ -1,3 +1,2 @@
 # school-site
-website for school
-i love school
+repository to store point, school-related files.

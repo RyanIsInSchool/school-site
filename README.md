@@ -1,2 +1,4 @@
 # school-site
-repository to store point, school-related files.
+repository to store school-related files.
+ryan
+why are you here
